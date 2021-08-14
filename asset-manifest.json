@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_13-Stripe_Submenu/static/css/main.ec0347cb.chunk.css",
+    "main.js": "/CodeCamp_13-Stripe_Submenu/static/js/main.0a76dc59.chunk.js",
+    "main.js.map": "/CodeCamp_13-Stripe_Submenu/static/js/main.0a76dc59.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_13-Stripe_Submenu/static/js/runtime-main.966f1222.js",
+    "runtime-main.js.map": "/CodeCamp_13-Stripe_Submenu/static/js/runtime-main.966f1222.js.map",
+    "static/js/2.e1e77988.chunk.js": "/CodeCamp_13-Stripe_Submenu/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/CodeCamp_13-Stripe_Submenu/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/CodeCamp_13-Stripe_Submenu/index.html",
+    "precache-manifest.66dbac6aebf97d3bf5071c9cebb8a727.js": "/CodeCamp_13-Stripe_Submenu/precache-manifest.66dbac6aebf97d3bf5071c9cebb8a727.js",
+    "service-worker.js": "/CodeCamp_13-Stripe_Submenu/service-worker.js",
+    "static/css/main.ec0347cb.chunk.css.map": "/CodeCamp_13-Stripe_Submenu/static/css/main.ec0347cb.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/CodeCamp_13-Stripe_Submenu/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CodeCamp_13-Stripe_Submenu/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/CodeCamp_13-Stripe_Submenu/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/CodeCamp_13-Stripe_Submenu/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966f1222.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.ec0347cb.chunk.css",
+    "static/js/main.0a76dc59.chunk.js"
+  ]
+}
